@@ -1,8 +1,19 @@
-# React + Vite
+# Netflix Clone 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Netflix-inspired movie streaming website built using **React.js**, **Firebase Authentication**, and **The Movie Database (TMDb) API**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🔐 **User Authentication** (Firebase)
+- 🎥 **Movie Browsing** (TMDb API)
+- 📺 **Video Player**
+- 🌙 **Dark Mode UI**
+- 🍿 **Toast Notifications** (react-toastify)
+- 🏃 **Fast Navigation** (React Router)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 📌 Installation & Setup
+#### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/aymen-kh/Netflix-clone-forja-.git
+cd Netflix-clone-forja-
